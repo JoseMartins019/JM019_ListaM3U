@@ -38,3 +38,40 @@ https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1723916290.m3u
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS ANTIGOS 3 SD
 https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/chunklist_w614910846.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="ESPORTES", ESPN HD
+
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://th.bing.com/th/id/OIP.Pf1Yi-BcSqLX7oSM7DovtgHaBZ?pid=ImgDet&rs=1" , ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" , ESPN BRASIL HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" , ESPN EXTRA HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 1
+https://slvcs87g3x.akamaized.net/live/canal_01/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 2
+https://slvcs87g3x.akamaized.net/live/canal_02/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 3
+https://slvcs87g3x.akamaized.net/live/canal_03/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 6
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 7
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
