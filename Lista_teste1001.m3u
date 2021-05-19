@@ -119,3 +119,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="VARIEDADES", RecordTV Rio de Janeiro
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="VARIEDADES",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
