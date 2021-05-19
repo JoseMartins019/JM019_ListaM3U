@@ -20,3 +20,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/ind
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w714679706.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", RETRO CARTOON 2
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/chunklist_w408303418.m3u8
