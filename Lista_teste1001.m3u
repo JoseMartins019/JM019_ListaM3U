@@ -35,3 +35,6 @@ https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w210408012.m3u8
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", GOSPEL CARTOON
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1723916290.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS ANTIGOS 3 SD
+https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/chunklist_w614910846.m3u8
