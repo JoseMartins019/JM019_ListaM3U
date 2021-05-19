@@ -23,3 +23,15 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w714679706.m3u8
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", RETRO CARTOON 2
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/chunklist_w408303418.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w711000790.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS ANTIGOS HD
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w117310943.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS ANTIGOS 2 HD
+https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w210408012.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", GOSPEL CARTOON
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1723916290.m3u8
