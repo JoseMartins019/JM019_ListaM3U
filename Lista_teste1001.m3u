@@ -135,7 +135,8 @@ https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUrHalfprJAY2MXMZm
 #EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://168.205.87.198/logocanais/amc.png" group-title="VARIEDADES", AMC
 http://168.205.87.198:8555/live/elienecp/123456/14.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="http://168.205.87.198/logocanais/animalplanet.png" group-title="VARIEDADES", ANIMAL PLANET http://168.205.87.198:8555/live/elienecp/123456/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="http://168.205.87.198/logocanais/animalplanet.png" group-title="VARIEDADES", ANIMAL PLANET
+http://168.205.87.198:8555/live/elienecp/123456/18.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="http://168.205.87.198/logocanais/boomerang.png" group-title="INFANTIL", BOOMERANG
 http://168.205.87.198:8555/live/elienecp/123456/22.ts
