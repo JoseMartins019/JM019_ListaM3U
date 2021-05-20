@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png" group-title="INFANTIL", TV MANCHETE 
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1807326387.m3u8
+
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg"group-title="INFANTIL", C29 SÉRIES
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1705369695.m3u8
 
