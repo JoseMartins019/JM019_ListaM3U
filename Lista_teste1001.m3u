@@ -137,3 +137,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", CONMENBOL TV SD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_1000/index.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", CONMENBOL TV SD OP2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_500/index.m3u8
