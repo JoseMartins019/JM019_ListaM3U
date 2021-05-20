@@ -132,20 +132,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", TNT SD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_1000/index.m3u8
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", STAR HITS HD
-https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1621510979&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=4f73976067fb640c20e560af05184a9852c8bffba95fd084f243dab3f3fc8b6c&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=59184ae1584cc3b511f04a2560e5a5f802dbb5849f3ff5573087cc6737d25685&pbs=c8de42d05cf4458fa52c0d071c281280
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", STAR HITS SD
-https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/d.m3u8?exp=1621511043&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=4f73976067fb640c20e560af05184a9852c8bffba95fd084f243dab3f3fc8b6c&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=c01a17092802f7dc9024fc7ec4c21f2518153c4bf04299538b6ad83f3eb27f1d&pbs=bffb8454303e4f6094cff8dc2333bc98
-
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV DIÁRIO
 https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUrHalfprJAY2MXMZmfpCGc)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", DISCOVERY CHANNEL
-https://dplaysouth-vod.akamaized.net/dplaydni/213813/0/hls/10169111004/exp=1621581288~acl=%2f*~data=hdntl~hmac=8f4b90fcd5953679a9a28a50123ccb2dd788cfbc7687f53c4a70af2579ffdd62/805799613-prog_index.m3u8?version_hash=1c4b2838&hdnts=st=1621494885~exp=1621581285~acl=/dplaydni/213813/0/hls/10169111004/*~hmac=10cf41bbb3262d91b73b5e4d319a7f4c52cc14160e40afa9ea8d9e8af9893010
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", STAR CHANNEL HD
-https://content-asae1-up-2.uplynk.com/channel/33ca31585a694bcba633e1316070d9c0/e.m3u8?exp=1621512074&ct=c&cid=33ca31585a694bcba633e1316070d9c0&expand=drmOff&iph=4f73976067fb640c20e560af05184a9852c8bffba95fd084f243dab3f3fc8b6c&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=cdbd283054a3b2cc4ef2b68888e9cb71cff42452c9daf563a70110a57aa2887c&pbs=feb1d94d9b29494fb6d5eb5a58f67242
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", STAR CHANNEL SD
-https://content-asae1-up-1.uplynk.com/channel/33ca31585a694bcba633e1316070d9c0/d.m3u8?exp=1621512128&ct=c&cid=33ca31585a694bcba633e1316070d9c0&expand=drmOff&iph=4f73976067fb640c20e560af05184a9852c8bffba95fd084f243dab3f3fc8b6c&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=9fe2fd7e90896d2a3ab2e1320bf6e7ec97150a9387d45c0661162597b93bd1be&pbs=9ea2656447d0436381975ca4f136b3c9
