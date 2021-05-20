@@ -192,12 +192,6 @@ http://168.205.87.198:8555/live/elienecp/123456/63.ts
 #EXTINF:-1 tvg-ID="" tvg-name="STAR LIFE" tvg-logo="http://168.205.87.198/logocanais/foxlife.png" group-title="VARIEDADES", STAR LIFE
 http://168.205.87.198:8555/live/elienecp/123456/64.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="http://168.205.87.198/logocanais/foxsports.png" group-title="ESPORTES", FOX SPORTS
-http://168.205.87.198:8555/live/elienecp/123456/65.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="http://168.205.87.198/logocanais/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2
-http://168.205.87.198:8555/live/elienecp/123456/66.ts
-
 #EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://168.205.87.198/logocanais/nick.png" group-title="INFANTIL", NICKELODEON
 http://168.205.87.198:8555/live/elienecp/123456/80.ts
 
@@ -218,18 +212,6 @@ http://168.205.87.198:8555/live/elienecp/123456/76.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="http://168.205.87.198/logocanais/fx.png" group-title="VARIEDADES", FX
 http://168.205.87.198:8555/live/elienecp/123456/68.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="ESPORTES", ESPN
-http://168.205.87.198:8555/live/elienecp/123456/60.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="http://168.205.87.198/logocanais/espn2.png" group-title="ESPORTES", ESPN 2
-http://168.205.87.198:8555/live/elienecp/123456/49.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL
-http://168.205.87.198:8555/live/elienecp/123456/50.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="ESPORTES", ESPN EXTRA
-http://168.205.87.198:8555/live/elienecp/123456/51.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="RECORD NEWS" tvg-logo="http://168.205.87.198/logocanais/recordnews.png" group-title="VARIEDADES",RECORD NEWS
 http://168.205.87.198:8555/live/elienecp/123456/97.ts
