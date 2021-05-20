@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg"group-title="INFANTIL", C29 SÉRIES
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1705369695.m3u8
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png"group-title="ESPORTES", FOX ESPORTES 
 http://video01.kshost.com.br/mayra5349/mayra5349/chunklist_w1133612780.m3u8
 
