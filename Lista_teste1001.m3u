@@ -232,3 +232,7 @@ http://168.205.87.198:8555/live/elienecp/123456/50.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="ESPORTES", ESPN EXTRA OP3
 http://168.205.87.198:8555/live/elienecp/123456/51.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="RECORD NEWS" tvg-logo="http://168.205.87.198/logocanais/recordnews.png" group-title="OI TV BASICO 2",RECORD NEWS
+http://168.205.87.198:8555/live/elienecp/123456/97.ts
+
