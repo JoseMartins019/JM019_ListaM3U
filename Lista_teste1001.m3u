@@ -179,3 +179,44 @@ http://168.205.87.198:8555/live/elienecp/123456/41.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD" tvg-logo="http://168.205.87.198/logocanais/discoveryworld.png" group-title="VARIEDADES", DISCOVERY WORLD
 http://168.205.87.198:8555/live/elienecp/123456/42.ts
 
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="http://168.205.87.198/logocanais/disneychannel.png" group-title="VARIEDADES", DISNEY CHANNEL
+http://168.205.87.198:8555/live/elienecp/123456/45.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JR" tvg-logo="http://168.205.87.198/logocanais/disneyjr.png" group-title="INFANTIL", DISNEY JR
+http://168.205.87.198:8555/live/elienecp/123456/46.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="http://168.205.87.198/logocanais/disneyxd.png" group-title="INFANTIL", DISNEY XD
+http://168.205.87.198:8555/live/elienecp/123456/47.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="STAR CHANNEL" tvg-logo="http://168.205.87.198/logocanais/foxchannel.png" group-title="VARIEDADES", STAR CHANNEL
+http://168.205.87.198:8555/live/elienecp/123456/63.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="STAR LIFE" tvg-logo="http://168.205.87.198/logocanais/foxlife.png" group-title="VARIEDADES", STAR LIFE
+http://168.205.87.198:8555/live/elienecp/123456/64.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="http://168.205.87.198/logocanais/foxsports.png" group-title="ESPORTES", FOX SPORTS
+http://168.205.87.198:8555/live/elienecp/123456/65.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="http://168.205.87.198/logocanais/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2
+http://168.205.87.198:8555/live/elienecp/123456/66.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://168.205.87.198/logocanais/nick.png" group-title="INFANTIL", NICKELODEON
+http://168.205.87.198:8555/live/elienecp/123456/80.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="http://168.205.87.198/logocanais/space.png" group-title="VARIEDADES", SPACE
+http://168.205.87.198:8555/live/elienecp/123456/110.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SÉRIES" tvg-logo="http://168.205.87.198/logocanais/tntseries.png" group-title="VARIEDADES", TNT SÉRIES
+http://168.205.87.198:8555/live/elienecp/123456/117.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://168.205.87.198/logocanais/tnt.png" group-title="VARIEDADES", TNT
+http://168.205.87.198:8555/live/elienecp/123456/116.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT" tvg-logo="http://168.205.87.198/logocanais/paramount.png" group-title="VARIEDADES", PARAMOUNT
+http://168.205.87.198:8555/live/elienecp/123456/81.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="http://168.205.87.198/logocanais/mtv.png" group-title="VARIEDADES", MTV
+http://168.205.87.198:8555/live/elienecp/123456/76.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="http://168.205.87.198/logocanais/fx.png" group-title="VARIEDADES", FX
+http://168.205.87.198:8555/live/elienecp/123456/68.ts
