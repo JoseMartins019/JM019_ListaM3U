@@ -135,3 +135,47 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV DIÁRIO
 https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUrHalfprJAY2MXMZmfpCGc)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://168.205.87.198/logocanais/amc.png" group-title="VARIEDADES", AMC
+http://168.205.87.198:8555/live/elienecp/123456/14.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="http://168.205.87.198/logocanais/animalplanet.png" group-title="VARIEDADES", ANIMAL PLANET http://168.205.87.198:8555/live/elienecp/123456/18.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="http://168.205.87.198/logocanais/boomerang.png" group-title="INFANTIL", BOOMERANG
+http://168.205.87.198:8555/live/elienecp/123456/22.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="http://168.205.87.198/logocanais/cartoonnetwork.png" group-title="INFANTIL", CARTOON NETWORK
+http://168.205.87.198:8555/live/elienecp/123456/26.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNN BRASIL" tvg-logo="" group-title="VARIEDADES", CNN BRASIL
+http://168.205.87.198:8555/live/elienecp/123456/28.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="http://168.205.87.198/logocanais/comedycentral.png" group-title="VARIEDADES", COMEDY CENTRAL
+http://168.205.87.198:8555/live/elienecp/123456/29.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://168.205.87.198/logocanais/discovery.png" group-title="VARIEDADES", DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/elienecp/123456/33.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HOME HELTH" tvg-logo="http://168.205.87.198/logocanais/homeehealth.png" group-title="VARIEDADES", DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/elienecp/123456/35.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ID" tvg-logo="http://168.205.87.198/logocanais/iddiscovery.png" group-title="VARIEDADES", DISCOVERY ID
+http://168.205.87.198:8555/live/elienecp/123456/36.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="http://168.205.87.198/logocanais/discoverykids.png" group-title="INFANTIL", DISCOVERY KIDS
+http://168.205.87.198:8555/live/elienecp/123456/37.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCI" tvg-logo="http://168.205.87.198/logocanais/discoverysci.png" group-title="VARIEDADES", DISCOVERY SCI
+http://168.205.87.198:8555/live/elienecp/123456/38.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER" tvg-logo="http://168.205.87.198/logocanais/discoverytheater.png" group-title="VARIEDADES", DISCOVERY THEATER
+http://168.205.87.198:8555/live/elienecp/123456/39.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TLC" tvg-logo="http://168.205.87.198/logocanais/tlcdiscovery.png" group-title="VARIEDADES", DISCOVERY TLC
+http://168.205.87.198:8555/live/elienecp/123456/40.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO" tvg-logo="http://168.205.87.198/logocanais/discoveryturbo.png" group-title="VARIEDADES", DISCOVERY TURBO
+http://168.205.87.198:8555/live/elienecp/123456/41.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD" tvg-logo="http://168.205.87.198/logocanais/discoveryworld.png" group-title="VARIEDADES", DISCOVERY WORLD
+http://168.205.87.198:8555/live/elienecp/123456/42.ts
+
