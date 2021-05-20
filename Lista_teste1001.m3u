@@ -236,3 +236,6 @@ http://168.205.87.198:8555/live/elienecp/123456/97.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="MAP KIDS" tvg-logo="" group-title="INFANTIL",MAP KIDS
 http://168.205.87.198:8555/live/elienecp/123456/143.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="RATIMBUM" tvg-logo="http://168.205.87.198/logocanais/tvratimbum.png" group-title="INFANTIL", RATIMBUM
+http://168.205.87.198:8555/live/elienecp/123456/84.ts
