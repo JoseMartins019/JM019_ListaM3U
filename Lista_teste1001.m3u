@@ -219,16 +219,16 @@ http://168.205.87.198:8555/live/elienecp/123456/76.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="http://168.205.87.198/logocanais/fx.png" group-title="VARIEDADES", FX
 http://168.205.87.198:8555/live/elienecp/123456/68.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="ESPORTES", ESPN OP3
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="ESPORTES", ESPN
 http://168.205.87.198:8555/live/elienecp/123456/60.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="http://168.205.87.198/logocanais/espn2.png" group-title="ESPORTES", ESPN 2 OP3
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="http://168.205.87.198/logocanais/espn2.png" group-title="ESPORTES", ESPN 2
 http://168.205.87.198:8555/live/elienecp/123456/49.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL OP3
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN BRASIL" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL
 http://168.205.87.198:8555/live/elienecp/123456/50.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="ESPORTES", ESPN EXTRA OP3
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="ESPORTES", ESPN EXTRA
 http://168.205.87.198:8555/live/elienecp/123456/51.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="RECORD NEWS" tvg-logo="http://168.205.87.198/logocanais/recordnews.png" group-title="VARIEDADES",RECORD NEWS
