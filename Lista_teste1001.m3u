@@ -219,3 +219,5 @@ http://168.205.87.198:8555/live/elienecp/123456/97.ts
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", CONMENBOL TV HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", CONMENBOL TV SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_1000/index.m3u8
