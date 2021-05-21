@@ -197,3 +197,37 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="STAR CHANNEL" tvg-logo="http://168.205.87.198/logocanais/foxchannel.png" group-title="VARIEDADES", STAR CHANNEL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/63.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MAP KIDS" tvg-logo="" group-title="INFANTIL", MAP KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/143.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="http://168.205.87.198/logocanais/mtv.png" group-title="VARIEDADES", MTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/76.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE" tvg-logo="http://168.205.87.198/logocanais/vh1megahits.png" group-title="VARIEDADES", MTV LIVE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/140.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://168.205.87.198/logocanais/nick.png" group-title="INFANTIL", NICKELODEON
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT" tvg-logo="http://168.205.87.198/logocanais/paramount.png" group-title="VARIEDADES", PARAMOUNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/81.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="RATIMBUM" tvg-logo="http://168.205.87.198/logocanais/tvratimbum.png" group-title="INFANTIL", RATIMBUM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/84.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="http://168.205.87.198/logocanais/space.png" group-title="VARIEDADES", SPACE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SÉRIES" tvg-logo="http://168.205.87.198/logocanais/tntseries.png" group-title="VARIEDADES", TNT SÉRIES
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://168.205.87.198/logocanais/tnt.png" group-title="VARIEDADES", TNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/locomotion.png" group-title="INFANTIL", Locomotion
+http://www.toonxtv.net/hls/loco_ch/stream.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animeloving.png" group-title="INFANTIL", Anime Loving
+http://animeloving.net/hls/stream.m3u8?FORMIGAtv
+
