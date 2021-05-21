@@ -231,3 +231,42 @@ http://www.toonxtv.net/hls/loco_ch/stream.m3u8?FORMIGAtv
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animeloving.png" group-title="INFANTIL", Anime Loving
 http://animeloving.net/hls/stream.m3u8?FORMIGAtv
 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL SD
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/uNjcrBt.png" group-title="Temporário",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/uNjcrBt.png" group-title="Temporário",ESPN SD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://imgur.com/uBJ8T0B.png" group-title="Temporário",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://imgur.com/uBJ8T0B.png" group-title="Temporário",ESPN 2 SD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra SD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes HD
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32537
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes SD
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="Temporário",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
