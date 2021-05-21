@@ -140,3 +140,60 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?FO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL", Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?FORMIGAtv
+
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://168.205.87.198/logocanais/amc.png" group-title="VARIEDADES", AMC
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/14.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="http://168.205.87.198/logocanais/animalplanet.png" group-title="VARIEDADES", ANIMAL PLANET
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="http://168.205.87.198/logocanais/boomerang.png" group-title="INFANTIL", BOOMERANG
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/22.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="http://168.205.87.198/logocanais/cartoonnetwork.png" group-title="INFANTIL", CARTOON NETWORK
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/26.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNN BRASIL" tvg-logo="" group-title="VARIEDADES", CNN BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/28.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="http://168.205.87.198/logocanais/comedycentral.png" group-title="VARIEDADES", COMEDY CENTRAL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/29.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://168.205.87.198/logocanais/discovery.png" group-title="VARIEDADES", DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HOME HELTH" tvg-logo="http://168.205.87.198/logocanais/homeehealth.png" group-title="VARIEDADES", DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/35.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ID" tvg-logo="http://168.205.87.198/logocanais/iddiscovery.png" group-title="VARIEDADES", DISCOVERY ID
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/36.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="http://168.205.87.198/logocanais/discoverykids.png" group-title="INFANTIL", DISCOVERY KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/37.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCI" tvg-logo="http://168.205.87.198/logocanais/discoverysci.png" group-title="VARIEDADES", DISCOVERY SCI
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER" tvg-logo="http://168.205.87.198/logocanais/discoverytheater.png" group-title="VARIEDADES", DISCOVERY THEATER
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/39.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TLC" tvg-logo="http://168.205.87.198/logocanais/tlcdiscovery.png" group-title="VARIEDADES", DISCOVERY TLC
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/40.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO" tvg-logo="http://168.205.87.198/logocanais/discoveryturbo.png" group-title="VARIEDADES", DISCOVERY TURBO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/41.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD" tvg-logo="http://168.205.87.198/logocanais/discoveryworld.png" group-title="VARIEDADES", DISCOVERY WORLD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/42.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="STAR LIFE" tvg-logo="http://168.205.87.198/logocanais/foxlife.png" group-title="VARIEDADES", STAR LIFE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/64.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="http://168.205.87.198/logocanais/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/66.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="http://168.205.87.198/logocanais/foxsports.png" group-title="ESPORTES", FOX SPORTS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="STAR CHANNEL" tvg-logo="http://168.205.87.198/logocanais/foxchannel.png" group-title="VARIEDADES", STAR CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/63.m3u8
