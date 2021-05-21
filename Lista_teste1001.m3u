@@ -150,9 +150,6 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/26.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="http://168.205.87.198/logocanais/comedycentral.png" group-title="VARIEDADES", COMEDY CENTRAL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/29.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="http://168.205.87.198/logocanais/discoverykids.png" group-title="INFANTIL", DISCOVERY KIDS
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/37.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCI" tvg-logo="http://168.205.87.198/logocanais/discoverysci.png" group-title="VARIEDADES", DISCOVERY SCI
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
 
