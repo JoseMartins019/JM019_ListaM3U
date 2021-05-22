@@ -441,3 +441,9 @@ http://srvuhd.top:80/Alex2021/Alex2021/5053
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://cloud.icontv.in/img/discoveryhomeandhealth.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH SD
 http://srvuhd.top:80/Alex2021/Alex2021/5415
 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="http://m3u.win/images/canais/discovery-home-&-health.png" group-title="Documentarios",Discovery Home & Health
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/167.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://m3u.win/images/canais/discovery-home-&-health-hd.png" group-title="Documentarios",Discovery Home & Health HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/166.m3u8
+
