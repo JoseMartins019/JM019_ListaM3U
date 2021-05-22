@@ -239,3 +239,7 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="ABERTOS", SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES" pltv-subgroup="TV ABERTA", TLC
+https://streaming.cometa.link/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=qzqtJcfnW9l_MsXhjhTQSA&3U1G7qaTxrPbalZnEx=1621672227
+
