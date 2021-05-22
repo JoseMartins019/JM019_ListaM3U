@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E01
+https://www.googleapis.com/drive/v3/files/19bEo3S90enWLiZI91VVoKS7Dm2gykHGh?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E02
+https://www.googleapis.com/drive/v3/files/19cZuRlYEHgQCpzok8lTZD2YuPmuX96dW?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E03
+https://www.googleapis.com/drive/v3/files/19eJBdK7xF9JREFS6t3HAeAzD26FG1-Xz?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E04
+https://www.googleapis.com/drive/v3/files/19rV6rU06rpxpSGDu7oLgT2DuWYcR9iky?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E05
+https://www.googleapis.com/drive/v3/files/19wLN4GG5-em1cmt_0Y0j0iUE4z7T1SlA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E06
+https://www.googleapis.com/drive/v3/files/1A6DBjrdauhF_EsMwMAOC0kHqGbWZNGWh?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E07
+https://www.googleapis.com/drive/v3/files/1A8ASZqRfvgH8PxS8VrjWdOZ6hvNwhXE8?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E08
+https://www.googleapis.com/drive/v3/files/1ALxr9diGzxLjqoLYyVKRnDdmDLAVBp5L?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E09
+https://www.googleapis.com/drive/v3/files/1C_d020ujVqucV1bhR5OsMccklEVOR8Ov?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E10
+https://www.googleapis.com/drive/v3/files/1FMp-0uIr4BjjLvaKlp7bcLwUS1LOCmOz?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E11
+https://www.googleapis.com/drive/v3/files/1FOPmKSzvc3-i8LF8lzSdLim6w69AAiEV?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E12
+https://www.googleapis.com/drive/v3/files/1Fe65Mb9Up-9Y7Uq6WPmFY2sF3lJK_wKD?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E13
+https://www.googleapis.com/drive/v3/files/1FlAxmsyEw5wurlHB383NT410tpmsexvh?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E14
+https://www.googleapis.com/drive/v3/files/1FmEQpCZJYWnAK7dRJAQiIN4ObWjJAsO_?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E15
+https://www.googleapis.com/drive/v3/files/1FuT0GR_FSnA4_WOYoEfGvl-uXnt1qDLU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/YWUszxJ.jpg" group-title="Manifest 1° Temporada",S01E16
+https://www.googleapis.com/drive/v3/files/1Fw89ccDzaWZe_k4WN5ukxTSLia2pveI0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-DApr_TZTtqM/Xvi5SHxkMjI/AAAAAAAABgA/qUXXzTVORBU8Rtma7aBW3ubgJAWQYDMugCK4BGAYYCw/s150/download%2B-%2BCopia%2B%25282%2529%2B%25281%2529.png" group-title="INFANTIL",TV SV
 https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w2010218111.m3u8
 
