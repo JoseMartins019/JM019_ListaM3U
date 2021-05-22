@@ -342,3 +342,14 @@ http://srvuhd.top:80/Alex2021/Alex2021/5508
 #EXTINF:-1 tvg-id="Tooncast HD [Alter]" tvg-name="TOONCAST HD" tvg-logo="http://voxp2p.xyz:80/images/a4a3148d12157121b65a8052ed894b6e.png" group-title="INFANTIL",TOONCAST HD
 http://srvuhd.top:80/Alex2021/Alex2021/5511
 
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://voxp2p.xyz:80/images/3af0cc003dc17bb319f900038b7492fc.png" group-title="VARIEDADES",WARNER CHANNEL FHD
+http://srvuhd.top:80/Alex2021/Alex2021/5282
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://voxp2p.xyz:80/images/3af0cc003dc17bb319f900038b7492fc.png" group-title="VARIEDADES",WARNER CHANNEL HD
+http://srvuhd.top:80/Alex2021/Alex2021/5132
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://voxp2p.xyz:80/images/3af0cc003dc17bb319f900038b7492fc.png" group-title="VARIEDADES",WARNER CHANNEL SD
+http://srvuhd.top:80/Alex2021/Alex2021/5531
+
+#EXTINF:-1 tvg-id="Tvdiario.br" tvg-name="TV DIARIO HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEaYJPgNBGN3vubcHud0IHoHZZtnilBm88g&usqp=CAU" group-title="ABERTOS",TV DIARIO HD 
+http://srvuhd.top:80/Alex2021/Alex2021/5165
