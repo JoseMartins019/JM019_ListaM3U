@@ -419,3 +419,25 @@ http://srvuhd.top:80/Alex2021/Alex2021/47879
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://voxp2p.live:80/images/d9fadf4c4784e2c581e02bc5fdd87d60.png" group-title="CANAIS | PAY-PAR-VIEW",DAZN 4 HD
 http://srvuhd.top:80/Alex2021/Alex2021/47881
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://voxp2p.live:80/images/fee987f2de0264be447ac4cd6f09b07f.jpg" group-title="CANAIS 4K",DISCOVERY CHANNEL 4K
+http://srvuhd.top:80/Alex2021/Alex2021/26506
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://cloud.icontv.in/img/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://srvuhd.top:80/Alex2021/Alex2021/5203
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://cloud.icontv.in/img/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://srvuhd.top:80/Alex2021/Alex2021/5051
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://cloud.icontv.in/img/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://srvuhd.top:80/Alex2021/Alex2021/5414
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD " tvg-logo="http://cloud.icontv.in/img/discoveryhomeandhealth.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH FHD 
+http://srvuhd.top:80/Alex2021/Alex2021/5205
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://cloud.icontv.in/img/discoveryhomeandhealth.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
+http://srvuhd.top:80/Alex2021/Alex2021/5053
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://cloud.icontv.in/img/discoveryhomeandhealth.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH SD
+http://srvuhd.top:80/Alex2021/Alex2021/5415
+
