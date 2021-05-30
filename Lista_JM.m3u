@@ -87,41 +87,20 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE CLUBES HD
-http://20eua10india.cf/HD_PFC_CLUBES/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES", SPORTV 1 HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE CLUBES SD
-http://20eua10india.cf/SD_PFC_CLUBES/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES", PREMIERE 1 HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 2 HD
-http://13ca3india.ga/HD_PFC_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES", SPORTV 1 HD 2
+https://dtv-latam-jbc.akamaized.net/dash/live/2004561/sky/dtvlatam-sportvhd/1618422628/720p-30fps-3500k-650658.mp4
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 2 SD
-http://13ca3india.ga/SD_PFC_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES", PREMIERE 2 HD
+https://p-cdn3-605-cg14-linear-cbd46b77.movetv.com/15803/live/PREM2/9a1ca7acc06011ebaa790025b5471114/video/vid03/00005f5e.m4s
 
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 3 HD
-http://13ca3india.ga/HD_PFC_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 3 SD
-http://13ca3india.ga/SD_PFC_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 4 HD
-http://13ca3foxtrot.ga/HD_PFC_4/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 4 SD
-http://13ca3foxtrot.ga/SD_PFC_4/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 5 HD
-http://12ca3echo.ga/HD_PFC_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 5 SD
-http://12ca3echo.ga/SD_PFC_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 6 HD
-http://13ca3echo.ga/HD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="ESPORTES", PREMIERE 6 SD
-http://13ca3echo.ga/SD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES", DAZN
+https://live-edge-us10-rn.bcvcdn.com/hls/stream_blow2job-lat/public-aac/stream_blow2job-lat_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", TNT HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
