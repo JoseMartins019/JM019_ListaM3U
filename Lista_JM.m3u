@@ -171,9 +171,6 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://168.205.87.198/logocanais/tnt.png" group-title="VARIEDADES", TNT
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animeloving.png" group-title="INFANTIL", Anime Loving
-http://animeloving.net/hls/stream.m3u8?FORMIGAtv
-
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 
@@ -197,12 +194,6 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra SD
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes HD
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32537
-
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes SD
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
