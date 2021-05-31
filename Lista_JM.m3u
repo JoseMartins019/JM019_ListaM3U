@@ -427,7 +427,7 @@ http://pixconection.xyz/host04.php?b=tv/79696/2/dub/12.mp4
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/13.mp4
 
 #EXTINF:-1 tvg-logo"" group-title="FILMES | DUBLADOS", LIGA DA JUSTIÇA DE ZACK SNYDER (2021)
-http://pixconection.xyz/host05.php?b=utf8/saidai/dub/7913731.mkv
+http://127.0.0.1:8088/play/8C8CACC0A491342496201D418B47FD98F1CD5934-0.mkv
 
 #EXTINF:-1 tvg-logo"https://bit.ly/AvesDeRapinaAlerquina" group-title="FILMES | DUBLADOS", AVES DE RAPINA: ARLEQUINA E SUA EMANCIPAÇÃO FANTABULOSA (2020)
 http://pixconection.xyz/host01.php?b=dk/495764.mkv
