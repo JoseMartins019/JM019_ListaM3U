@@ -450,9 +450,6 @@ http://pixconection.xyz/host02.php?b=feral/dub/456740.mp4
 #EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SONIC: O FILME (2020)
 http://pixconection.xyz/host02.php?b=feral/dub/454626.mp4
 
-#EXTINF:-1 tvg-logo"https://bit.ly/A-Q-U-A-M-A-N" group-title="FILMES | DUBLADOS", VELOZES E FURIOSOS (2021)
-https://r3---sn-bg07dn6r.c.drive.google.com/videoplayback?expire=1622478478&ei=Tta0YIP4Hprohgb4kaW4CQ&ip=2804:14d:3290:6674:48ee:dda8:55c2:765c&cp=QVRHVEVfV1RVSVhPOkt4UFdnT0pIZk1kaF9EX1lHOXlESGRaaFByQ2dKTjh6TEIyRlhHVjQ4U1A&id=18da67f6df2a4ae7&itag=18&source=webdrive&requiressl=yes&mh=0Z&mm=32&mn=sn-bg07dn6r&ms=su&mv=m&mvi=3&pl=44&sc=yes&ttl=transient&susc=dr&driveid=1-7dg8M0jN4QufbYg7U58SSjqtDAYNl5r&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6788.794&lmt=1621922515408572&mt=1622463618&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgfYdgSdCv8u6SLXHZ6GMXNw1mnlx2ujfM60CowG1lSPgCIEA6Dxcw7bM1QIttWer3Dr0lh-5Eaw48vCG27iqFeRo-&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRgIhAJNcevKomlDf0gcEaHFzGwPeZiQg_0LxfpmsnupvTf2bAiEA6Hi-4rr11aboimCXlfMy_7-t6TMhoWBhdTzuQtIuKCw=&cpn=9WOxAQrGSg97BbB-&c=WEB_EMBEDDED_PLAYER&cver=1.20210526.1.0
-
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV JANGADEIRO
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w594571588_b1000000.m3u8
 
@@ -468,5 +465,3 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/media_w19141
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", SUMMER TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1861189656.m3u8
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", S
-https://r3---sn-bg07dn6r.c.drive.google.com/
