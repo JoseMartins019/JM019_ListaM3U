@@ -453,13 +453,14 @@ http://pixconection.xyz/host01.php?b=dk/297802.mp4
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV JANGADEIRO
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w594571588_b1000000.m3u8
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV DIÁRIO
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", YES Kids
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w733144608.m3u8
 
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 2
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w416111348.m3u8
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV DIÁRIO
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 4
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/media_w1914138137_b1000000_1018.ts
 
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV DIÁRIO
-
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV DIÁRIO
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1861189656.m3u8
