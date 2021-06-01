@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="" group-title="INFANTIL", TV LATINASAT
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w651348554.m3u8
+
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-DApr_TZTtqM/Xvi5SHxkMjI/AAAAAAAABgA/qUXXzTVORBU8Rtma7aBW3ubgJAWQYDMugCK4BGAYYCw/s150/download%2B-%2BCopia%2B%25282%2529%2B%25281%2529.png" group-title="INFANTIL",TV SV
 https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w2010218111.m3u8
 
