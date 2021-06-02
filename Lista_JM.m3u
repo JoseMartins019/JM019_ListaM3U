@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="" group-title="INFORMATIVOS", CNN
+https://play.fibralink.net.br/media/n/BZi1nZuZy2G3otaWmdC/a/BZi1nZuZy2G3otaWmdC/720p/chunks.m3u8?ch=BZi1nZuZy2G3otaWmdC&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI2MzU2ODgsImlhdCI6MTYyMjYxNzY4OCwic3ViIjoiZGVmYXVsdCMxNTUyOTI5MTYxIn0.aW2NpqCnrVanFnFx4FM68PsX7gV5HuanBFAZU_NNcB8
+
 #EXTINF:0 tvg-logo="" group-title="INFANTIL", TV LATINASAT
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w651348554.m3u8
 
@@ -160,7 +163,7 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/76.m3u8
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/140.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://168.205.87.198/logocanais/nick.png" group-title="INFANTIL", NICKELODEON
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+https://play.fibralink.net.br/media/n/BZi1nZuZy2G2mZe1odu/a/BZi1nZuZy2G2mZe1odu/720p/chunks.m3u8?ch=BZi1nZuZy2G2mZe1odu&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI2MzU3NTIsImlhdCI6MTYyMjYxNzc1Miwic3ViIjoiZGVmYXVsdCMxNTUyOTI5MTYxIn0.vlrjpCH0rCoKFzXm3XxuBwJreYCYWVghrJLWe2agB1k
 
 #EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="http://168.205.87.198/logocanais/space.png" group-title="VARIEDADES", SPACE
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
@@ -473,3 +476,6 @@ https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", COMEDY CENTRAL
 https://play.fibralink.net.br/media/n/BZi1nZuZy2G2mZe2mde/a/BZi1nZuZy2G2mZe2mde/720p/chunks.m3u8?ch=BZi1nZuZy2G2mZe2mde&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI2MzYxMTYsImlhdCI6MTYyMjYxODExNiwic3ViIjoiZGVmYXVsdCMxNTUyOTI5MTYxIn0.3pqELHtPpHstVKqEnBlvFemCAkMekMLigyrwSV9yMLc
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", BAND SPORTS
+https://play.fibralink.net.br/media/n/BZi1nZuZy2G1ndy5mde/a/BZi1nZuZy2G1ndy5mde/720p/chunks.m3u8?ch=BZi1nZuZy2G1ndy5mde&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI2MzU2MDEsImlhdCI6MTYyMjYxNzYwMSwic3ViIjoiZGVmYXVsdCMxNTUyOTI5MTYxIn0.iejJkSxAjVSYi_XPU_bOWVPSXFy4IfpBPF9cLn1MZHY
