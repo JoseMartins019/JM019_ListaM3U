@@ -4,7 +4,7 @@
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="INFORMATIVOS", BAND NEWS
-https://play.fibralink.net.br/media/n/BZi1nZuZy2G1ndy4otC/a/BZi1nZuZy2G1ndy4otC/720p/chunks.m3u8?ch=BZi1nZuZy2G1ndy4otC&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI2MzcyMDYsImlhdCI6MTYyMjYxOTIwNiwic3ViIjoiZGVmYXVsdCMxNTUyOTI5MTYxIn0.dxuLw1lZyHQ7LW0RrwbUTPewz_2mO4He73M89g6CN3c
+https://play.fibralink.net.br/media/n/BZi1nZuZy2G1ndy4otC/a/BZi1nZuZy2G1ndy4otC/720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="INFANTIL", TV LATINASAT
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w651348554.m3u8
@@ -20,9 +20,6 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w17053
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png"group-title="ESPORTES", TV ARAGUAIA
 http://video01.kshost.com.br/mayra5349/mayra5349/chunklist_w1133612780.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", FOX SPORTS HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", ESPN SD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_480_av-p.m3u8?sd=10&rebase=on
@@ -201,20 +198,8 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra SD
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="Temporário",Disney XD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="ABERTOS", SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES" pltv-subgroup="TV ABERTA", TLC
-https://streaming.cometa.link/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=qzqtJcfnW9l_MsXhjhTQSA&3U1G7qaTxrPbalZnEx=1621672227
 
 #EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 01
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/1.mp4
@@ -478,13 +463,10 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/media_w19141
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1861189656.m3u8
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", COMEDY CENTRAL
-https://play.fibralink.net.br/media/n/BZi1nZuZy2G2mZe2mde/a/BZi1nZuZy2G2mZe2mde/720p/chunks.m3u8?ch=BZi1nZuZy2G2mZe2mde&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI2MzYxMTYsImlhdCI6MTYyMjYxODExNiwic3ViIjoiZGVmYXVsdCMxNTUyOTI5MTYxIn0.3pqELHtPpHstVKqEnBlvFemCAkMekMLigyrwSV9yMLc
+https://play.fibralink.net.br/media/n/BZi1nZuZy2G2mZe2mde/a/BZi1nZuZy2G2mZe2mde/720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", BAND SPORTS
-https://play.fibralink.net.br/media/n/BZi1nZuZy2G1ndy5mde/a/BZi1nZuZy2G1ndy5mde/720p/chunks.m3u8?ch=BZi1nZuZy2G1ndy5mde&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI2MzU2MDEsImlhdCI6MTYyMjYxNzYwMSwic3ViIjoiZGVmYXVsdCMxNTUyOTI5MTYxIn0.iejJkSxAjVSYi_XPU_bOWVPSXFy4IfpBPF9cLn1MZHY
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", TOONCAST
-https://streaming.cometa.link/a/hls1/tooncast.m3u8
+https://play.fibralink.net.br/media/n/BZi1nZuZy2G1ndy5mde/a/BZi1nZuZy2G1ndy5mde/720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E01
 https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/1.mp4
