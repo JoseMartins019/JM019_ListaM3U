@@ -3,9 +3,6 @@
 #EXTINF:0 tvg-logo="" group-title="ABERTOS", BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="INFORMATIVOS", BAND NEWS
-https://play.fibralink.net.br/media/n/BZi1nZuZy2G1ndy4otC/a/BZi1nZuZy2G1ndy4otC/720p/chunklist.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="INFANTIL", TV LATINASAT
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w651348554.m3u8
 
@@ -200,6 +197,21 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="ABERTOS", SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV JANGADEIRO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w594571588_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", YES Kids
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w733144608.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 2
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w416111348.m3u8
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 4
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/media_w1914138137_b1000000_1018.ts
+
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1861189656.m3u8
 
 #EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 01
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/1.mp4
@@ -419,54 +431,6 @@ http://pixconection.xyz/host04.php?b=tv/79696/2/dub/12.mp4
 
 #EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E13 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/13.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | DUBLADOS", LIGA DA JUSTIÇA DE ZACK SNYDER (2021)
-https://www27.uptostream.com/47wrzb2fccf/360/0/video.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/AvesDeRapinaAlerquina" group-title="FILMES | DUBLADOS", AVES DE RAPINA: ARLEQUINA E SUA EMANCIPAÇÃO FANTABULOSA (2020)
-http://pixconection.xyz/host01.php?b=dk/495764.mkv
-
-#EXTINF:-1 tvg-logo"https://bit.ly/ZumbilandiaAtireDuasVezes" group-title="FILMES | DUBLADOS", HELLBOY (2019)
-http://127.0.0.1:8088/play/6DED9DE7FCF3E06E1E72E689BABA6BD337D55E0E-0.mkv
-
-#EXTINF:-1 tvg-logo"https://bit.ly/ZumbilandiaAtireDuasVezes" group-title="FILMES | DUBLADOS", ZUMBILÂNDIA: ATIRE DUAS VEZES (2019)
-http://127.0.0.1:8088/play/B412AFF647A9AF12EAD5D23604E41F59A6CBAB87-4.mkv
-
-#EXTINF:-1 tvg-logo"https://bit.ly/Mulher-Maravilha2017" group-title="FILMES | DUBLADOS", CRUELA (2021)
-https://www46.uptostream.com/47wq74t94d7/360/0/video.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/Mulher-Maravilha1984" group-title="FILMES | DUBLADOS", GODZILLA VS KONG (2021)
-https://www54.uptostream.com/47wqrjtf033/360/0/video.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/H-E-L-L-B-O-Y" group-title="FILMES | DUBLADOS", MULHER-MARAVILHA 1984 (2020)
-http://127.0.0.1:8088/play/73F520CF4A28D647239000B0E8ED9D83E90392DB-0.mkv
-
-#EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SONIC: O FILME (2020)
-http://127.0.0.1:8088/play/9579869991C0F1461C204D217389775D891F4980-0.mkv
-
-#EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SOUL (2020)
-http://127.0.0.1:8088/play/9162B9D27C4B7104A27A9D7DD5D7F1D85C479178-3.mkv
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV JANGADEIRO
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w594571588_b1000000.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", YES Kids
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w733144608.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 2
-https://stmv1.srvstm.com/channel1/channel1/chunklist_w416111348.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 4
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/media_w1914138137_b1000000_1018.ts
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", SUMMER TV
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1861189656.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", COMEDY CENTRAL
-https://play.fibralink.net.br/media/n/BZi1nZuZy2G2mZe2mde/a/BZi1nZuZy2G2mZe2mde/720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", BAND SPORTS
-https://play.fibralink.net.br/media/n/BZi1nZuZy2G1ndy5mde/a/BZi1nZuZy2G1ndy5mde/720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E01
 https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/1.mp4
@@ -732,3 +696,31 @@ https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-4-dublado/sd/24.mp4
 #EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E25
 https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-4-dublado/sd/25.mp4 
  
+#EXTINF:-1 tvg-logo"" group-title="FILMES | DUBLADOS", LIGA DA JUSTIÇA DE ZACK SNYDER (2021)
+https://www27.uptostream.com/47wrzb2fccf/360/0/video.mp4
+
+#EXTINF:-1 tvg-logo"https://bit.ly/AvesDeRapinaAlerquina" group-title="FILMES | DUBLADOS", AVES DE RAPINA: ARLEQUINA E SUA EMANCIPAÇÃO FANTABULOSA (2020)
+http://pixconection.xyz/host01.php?b=dk/495764.mkv
+
+#EXTINF:-1 tvg-logo"https://bit.ly/ZumbilandiaAtireDuasVezes" group-title="FILMES | DUBLADOS", HELLBOY (2019)
+http://127.0.0.1:8088/play/6DED9DE7FCF3E06E1E72E689BABA6BD337D55E0E-0.mkv
+
+#EXTINF:-1 tvg-logo"https://bit.ly/ZumbilandiaAtireDuasVezes" group-title="FILMES | DUBLADOS", ZUMBILÂNDIA: ATIRE DUAS VEZES (2019)
+http://127.0.0.1:8088/play/B412AFF647A9AF12EAD5D23604E41F59A6CBAB87-4.mkv
+
+#EXTINF:-1 tvg-logo"https://bit.ly/Mulher-Maravilha2017" group-title="FILMES | DUBLADOS", CRUELA (2021)
+https://www46.uptostream.com/47wq74t94d7/360/0/video.mp4
+
+#EXTINF:-1 tvg-logo"https://bit.ly/Mulher-Maravilha1984" group-title="FILMES | DUBLADOS", GODZILLA VS KONG (2021)
+https://www54.uptostream.com/47wqrjtf033/360/0/video.mp4
+
+#EXTINF:-1 tvg-logo"https://bit.ly/H-E-L-L-B-O-Y" group-title="FILMES | DUBLADOS", MULHER-MARAVILHA 1984 (2020)
+http://127.0.0.1:8088/play/73F520CF4A28D647239000B0E8ED9D83E90392DB-0.mkv
+
+#EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SONIC: O FILME (2020)
+http://127.0.0.1:8088/play/9579869991C0F1461C204D217389775D891F4980-0.mkv
+
+#EXTINF:-1 tvg-logo"https://bit.ly/S-O-N-I-C" group-title="FILMES | DUBLADOS", SOUL (2020)
+http://127.0.0.1:8088/play/9162B9D27C4B7104A27A9D7DD5D7F1D85C479178-3.mkv
+
+
