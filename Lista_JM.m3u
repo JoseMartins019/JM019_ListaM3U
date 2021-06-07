@@ -18,21 +18,6 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w17053
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png"group-title="ESPORTES", TV ARAGUAIA
 http://video01.kshost.com.br/mayra5349/mayra5349/chunklist_w1133612780.m3u8
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", ESPN SD
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_480_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", ESPN 2 SD
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_480_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", ESPN BRASIL SD
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", SPORTV SD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ESPORTES", PREMIERE SD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
-
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w714679706.m3u8
 
