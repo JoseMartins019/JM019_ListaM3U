@@ -45,8 +45,8 @@ https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1723916290.m3u
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="ESPORTES", ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://th.bing.com/th/id/OIP.Pf1Yi-BcSqLX7oSM7DovtgHaBZ?pid=ImgDet&rs=1" , ESPN 2 HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="" , PREMIERE
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" , ESPN BRASIL HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
