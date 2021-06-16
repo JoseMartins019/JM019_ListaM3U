@@ -42,17 +42,17 @@ https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1716541781.m3u8
 #EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", GOSPEL CARTOON
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1723916290.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="ESPORTES", ESPN HD
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="ESPORTES", PREMIERE op1
+https://m2j3tv8e8t.azcdn728.net:8443/hls/fi73w30spdaav-1553852070.ts
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="" , PREMIERE
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="" , PREMIERE op2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" , ESPN BRASIL HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="" , PREMIERE op3
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc04hd/video.m3u8?md5=jsdvVEJ9ZVZBi4uRodQg3g&expires=1623917510
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" , ESPN EXTRA HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="" , PREMIERE op4
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc04sd/video.m3u8?md5=YylHeG_7E7WbnfqcJaN-HQ&expires=1623917748
 
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 1
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist.m3u8
